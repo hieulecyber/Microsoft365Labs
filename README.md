@@ -6,7 +6,7 @@ Truy cập **Microsoft 365 Defender** portal (https://security.microsoft.com/), 
 
 Nhấn nút dấu + để tạo mới policy, đặt tên vào ô _Name your policy_ > Next
 
-Ở thẻ Users and domains, chọn danh sách các người dùng (_Users_), nhóm (_Groups_) và tên miền (_Domains_) để áp dụng policy. Trong hình ảnh minh họa, policy áp dụng cho toàn tên miền > Next. 
+Ở thẻ _Users and domains_, chọn danh sách các người dùng (_Users_), nhóm (_Groups_) và tên miền (_Domains_) để áp dụng policy. Trong hình ảnh minh họa, policy áp dụng cho toàn tên miền > Next. 
 
 ![image](https://github.com/hieulecyber/Microsoft365Labs/assets/102139186/e0372a32-58ba-4de6-906c-94ef61a88357)
 
