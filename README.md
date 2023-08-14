@@ -22,3 +22,10 @@ Chọn **Submit** để tiến hành tạo policy mới.
 
 
 ![image](https://github.com/hieulecyber/Microsoft365Labs/assets/102139186/90338a65-d5b0-431b-b7e7-b0438c693434)
+
+Trở lại **Threat Policies** > **Tenant Allow/Block Lists**, chuyển sang thẻ _URL_, chọn _Block_ và nhập địa chỉ các trang web sẽ chặn trong phần _Add URLs with wildcards (20 max)_, chọn thời gian mở khóa URL trong phần _Remove block entry after_ và nhấn nút _Add_. 
+
+![image](https://github.com/hieulecyber/Microsoft365Labs/assets/102139186/aa814c5c-2fae-4a18-9674-687090dff4cf)
+
+
+
