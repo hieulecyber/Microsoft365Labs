@@ -2,7 +2,7 @@
 
 **Bài LAB 01: Safe Links Policy**
 
-Truy cập **Microsoft 365 Defender** portal (https://security.microsoft.com/), chọn Policies & Rules ở phần Email & collaboration > Threat policies > Safe Links
+Truy cập **Microsoft 365 Defender** portal (https://security.microsoft.com/), chọn **Policies & Rules** ở phần **Email & collaboration** > **Threat policies** > **Safe Links**
 
 Nhấn nút dấu + để tạo mới policy, đặt tên vào ô _Name your policy_ > Next
 
